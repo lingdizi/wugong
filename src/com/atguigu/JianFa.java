@@ -7,6 +7,7 @@ public class JianFa {
 		System.out.println("高手寂寞");
 		System.out.println("天下无敌");
 		System.out.println("我觉得还是辟邪剑谱厉害些");
+		System.out.println("对，一定是辟邪剑谱厉害");
 	}
 
 }
